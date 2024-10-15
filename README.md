@@ -47,9 +47,6 @@
 
 ---
 
-
----
-
 ## Future Scope
 
 - **Profile Editing**: Users should be able to edit their profile.
