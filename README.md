@@ -18,7 +18,7 @@
 - **Document Uploads**:  
   Users can upload notes/documents to share with others, with all files stored securely in the backend database.
 
-  <img src="images/upload-note.png" alt="Upload Notes Page" width="500" style="display: block; margin: 20px auto;" />
+  <img src="images/upload note.png" alt="Upload Notes Page" width="500" style="display: block; margin: 20px auto;" />
 
 - **Profile Management**:  
   After logging in, users can view their profile and see the notes they've uploaded.
