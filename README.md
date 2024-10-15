@@ -44,8 +44,18 @@
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL for storing user data, groups, and notes.
 - **Server**: Apache Tomcat
-- **Deployment**: Dockerized for scalable deployment.
 
+---
+
+
+---
+
+## Future Scope
+
+- **Profile Editing**: Users should be able to edit their profile.
+- **Notes Editing**: Users should be able to edit notes in real-time.
+- **Admin dashboard**: A responsive dashboard for admin that contains data analysis.
+  
 ---
 
 ## How to Run
